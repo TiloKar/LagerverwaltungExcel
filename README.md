@@ -1,3 +1,3 @@
 # LagerverwaltungExcel
 
-![Maske zum Scannen von Lagerartikeln](https://github.com/TiloKar/SoftProDoc/raw/main/img/dev_ops_cycle.png "Maske zum Scannen von Lagerartikeln")
+![Maske zum Scannen von Lagerartikeln](https://github.com/TiloKar/LagerverwaltungExcel/blob/master/Scrennshot%20Excel%20IDE.png "Maske zum Scannen von Lagerartikeln")
